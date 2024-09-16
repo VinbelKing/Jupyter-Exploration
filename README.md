@@ -1,4 +1,4 @@
-# Jupyter-exploration
+# Jupyter-Exploration
 GitHub: A platform for version control and collaboration.
 (editing)
 
